@@ -1,0 +1,9 @@
+/home/jonatan/dev/rendering/build/CMakeFiles/edit_cache.dir
+/home/jonatan/dev/rendering/build/CMakeFiles/Rendering.dir
+/home/jonatan/dev/rendering/build/CMakeFiles/rebuild_cache.dir
+/home/jonatan/dev/rendering/build/CMakeFiles/glad.dir
+/home/jonatan/dev/rendering/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/jonatan/dev/rendering/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/jonatan/dev/rendering/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/jonatan/dev/rendering/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/jonatan/dev/rendering/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
